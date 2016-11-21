@@ -16,7 +16,7 @@ RoadRunner will put the IMAP server through it's paces, so you as the sys-admin 
 
 Roadrunner is designed for the least number of dependencies possible.
 
-* [Go IMAP](github.com/mxk/go-imap/imap)  
+* [Go IMAP](https://github.com/mxk/go-imap/)  
 
 ### Compile
 
