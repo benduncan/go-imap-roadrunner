@@ -23,8 +23,8 @@ Roadrunner is designed for the least number of dependencies possible.
 Compiling is easy
 
 ```
-go get .../.
-go build roadrunner.go
+go get github.com/mxk/go-imap/imap
+go build roadrunner
 ```
 
 ### Usage
