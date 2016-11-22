@@ -23,7 +23,7 @@ Roadrunner is designed for the least number of dependencies possible.
 Compiling is easy
 
 ```
-go get ./...
+go get .../.
 go build roadrunner.go
 ```
 
