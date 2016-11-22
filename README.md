@@ -24,7 +24,7 @@ Compiling is easy
 
 ```
 go get github.com/mxk/go-imap/imap
-go build roadrunner
+go install roadrunner
 ```
 
 ### Usage
